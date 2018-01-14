@@ -28,7 +28,7 @@
 #include<sys/ioctl.h>
 #include<errno.h>
 
-#include "curses.h"
+#include "sip_curses.h"
 #include "main.h"
 
 volatile int max_x = 0;

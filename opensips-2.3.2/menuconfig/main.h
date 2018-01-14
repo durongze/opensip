@@ -28,7 +28,8 @@
 
 #include "commands.h"
 #include "parser.h"
-#include "curses.h"
+#include "sip_curses.h"
+#include <stdio.h>
 
 extern FILE*output;
 extern int run_locally;
